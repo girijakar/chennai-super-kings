@@ -1,0 +1,21 @@
+{
+    "name": "chennai-super-kings",
+    "displayName": "Chennai Super Kings",
+    "description": "Theme for Chennai Super Kings fan!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chennai Super Kings",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chennai Super Kings-color-theme.json"
+            }
+        ]
+    }
+}
