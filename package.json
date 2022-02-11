@@ -2,7 +2,18 @@
     "name": "chennai-super-kings",
     "displayName": "Chennai Super Kings",
     "description": "Theme for Chennai Super Kings fan!",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "codergirija",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/girijakar/chennai-super-kings"
+    },
+    "keywords": [
+        "theme",
+        "chennai super kings",
+        "chenna super kings vs code theme",
+        "csk theme"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
