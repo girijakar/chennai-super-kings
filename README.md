@@ -10,4 +10,4 @@
 
 <h3 align="center">That's it and Enjoy!</h3>
 
-<small>Logos and Trademarks belong to their respective owners</small>
+<small>Note: Logos and Trademarks belong to their respective owners</small>
